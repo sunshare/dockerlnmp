@@ -1,0 +1,10 @@
+.idea/
+*.key
+*.pem
+*.crt
+*.csr
+app/log/mysql/*
+app/log/nginx/*
+app/log/php/*
+app/mysql/*
+app/src/*
